@@ -1,0 +1,53 @@
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\M3_Project.staticwebassets.runtime.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\M3_Project.exe
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\M3_Project.deps.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\M3_Project.runtimeconfig.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\M3_Project.dll
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\bin\Debug\net6.0\M3_Project.pdb
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.csproj.AssemblyReference.cache
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.AssemblyInfoInputs.cache
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.AssemblyInfo.cs
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.csproj.CoreCompileInputs.cache
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.RazorAssemblyInfo.cache
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.RazorAssemblyInfo.cs
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\scopedcss\bundle\M3_Project.styles.css
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\scopedcss\projectbundle\M3_Project.bundle.scp.css
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.dll
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\refint\M3_Project.dll
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.pdb
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\M3_Project.genruntimeconfig.cache
+C:\Users\Makro\OneDrive - University of Kwazulu-Natal\M3_Project\obj\Debug\net6.0\ref\M3_Project.dll
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\M3_Project.staticwebassets.runtime.json
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\M3_Project.exe
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\M3_Project.deps.json
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\M3_Project.runtimeconfig.json
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\M3_Project.dll
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\M3_Project.pdb
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.csproj.AssemblyReference.cache
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.AssemblyInfoInputs.cache
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.AssemblyInfo.cs
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.csproj.CoreCompileInputs.cache
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.RazorAssemblyInfo.cache
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.RazorAssemblyInfo.cs
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\scopedcss\bundle\M3_Project.styles.css
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\scopedcss\projectbundle\M3_Project.bundle.scp.css
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.dll
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\refint\M3_Project.dll
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.pdb
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\M3_Project.genruntimeconfig.cache
+C:\Users\Makro\Documents\M3_Project\obj\Debug\net6.0\ref\M3_Project.dll
+C:\Users\Makro\Documents\M3_Project\bin\Debug\net6.0\Pages\Private\web.config
