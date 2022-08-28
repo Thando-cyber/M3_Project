@@ -129,16 +129,16 @@
 
 /* Button 3 */
 .btn-4 {
-    background: #34495e;
-    color: #fff;
+    background: #fff32d;
+    color: #000000;
 }
 
     .btn-4:hover {
-        background: #2c3e50;
+        background: #e8e14d;
     }
 
     .btn-4:active {
-        background: #2c3e50;
+        background: #e8e14d;
         top: 2px;
     }
 
@@ -154,7 +154,7 @@
 
 /* Icons */
 
-.icon-cart:before {
+.icon-cart::before {
     font-family: "Font Awesome 5 Free";
     content: "\f07a";
     display: inline-block;
@@ -163,7 +163,7 @@
     font-weight: 900;
 }
 
-.icon-heart:before {
+.icon-heart::before {
     font-family: "Font Awesome 5 Free";
     content: "\f55a";
     display: inline-block;
@@ -172,7 +172,7 @@
     font-weight: 900;
 }
 
-.icon-info:before {
+.icon-info::before {
     font-family: "Font Awesome 5 Free";
     content: "\f05a";
     display: inline-block;
@@ -181,7 +181,7 @@
     font-weight: 900;
 }
 
-.icon-send:before {
+.icon-send::before {
     font-family: "Font Awesome 5 Free";
     content: "\f1d8";
     display: inline-block;
