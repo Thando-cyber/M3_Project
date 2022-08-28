@@ -269,13 +269,13 @@ input[type=text] {
     bottom: -10px;
     width: 0;
     height: 2px;
-    background-color: #56baed;
+    background-color: #e8e14d;
     content: "";
     transition: width 0.2s;
 }
 
 .underlineHover:hover {
-    color: #0d0d0d;
+    color: #e8e14d;
 }
 
     .underlineHover:hover:after {
