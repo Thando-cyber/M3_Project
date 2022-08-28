@@ -89,7 +89,7 @@ h2.active {
 /* FORM TYPOGRAPHY*/
 
 input[type=button], input[type=submit], input[type=reset] {
-    background-color: #56baed;
+    background-color: #f9f50c;
     border: none;
     color: white;
     padding: 15px 80px;
@@ -269,7 +269,7 @@ input[type=text] {
     bottom: -10px;
     width: 0;
     height: 2px;
-    background-color: #e8e14d;
+    background-color: #56baed;
     content: "";
     transition: width 0.2s;
 }
