@@ -11,7 +11,7 @@
     display: inline-block;
     margin: 15px 30px;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
     font-weight: 700;
     outline: none;
     position: relative;
@@ -153,7 +153,6 @@
     }
 
 /* Icons */
-
 .icon-cart::before {
     font-family: "Font Awesome 5 Free";
     content: "\f07a";
